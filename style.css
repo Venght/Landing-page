@@ -47,7 +47,6 @@ body {
     font-weight: bold;
 }
 
-
 .page-img {
     width: 440px;
     height: 200px;
@@ -59,9 +58,6 @@ body {
     padding-top: 70px;
     max-width: fit-content;
     gap: 50px;
-    
-
-    
 }
 
 .container h1 {
@@ -76,7 +72,6 @@ body {
 }
 
 .container button {
-    
     margin-top: 20px;
     background-color: aqua;
     padding: 10px 40px;
@@ -84,7 +79,7 @@ body {
 }
 
 .description {
-    max-width: 500px;
+    max-width: 400px;
     font-size: larger;
 }
 
