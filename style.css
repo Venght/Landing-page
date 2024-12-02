@@ -187,6 +187,20 @@ body {
     padding: 5px 20px;
 }
 
+.footer {
+    background-color: rgb(180, 175, 175);
+    height: 80px;
+    max-width: 90%;
+    border-top: 0px;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    margin: auto;
+    font-weight: bold;
+    
+}
+
+
 
 
 
